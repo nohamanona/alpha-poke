@@ -1,0 +1,74 @@
+[
+    {
+      "name": "Ho-Oh",
+      "species": "Ho-Oh",
+      gender: 'N',
+      moves: [ 'bravebird', 'roost', 'substitute', 'sacredfire' ],
+      ability: 'Regenerator',
+      evs: { hp: 85, atk: 85, def: 85, spa: 85, spd: 85, spe: 85 },
+      ivs: { hp: 31, atk: 31, def: 31, spa: 31, spd: 31, spe: 31 },
+      item: 'Leftovers',
+      level: 78,
+      shiny: false
+    },
+    {
+      name: 'Azelf',
+      species: 'Azelf',
+      gender: 'N',
+      moves: [ 'taunt', 'psyshock', 'dazzlinggleam', 'knockoff' ],
+      ability: 'Levitate',
+      evs: { hp: 85, atk: 85, def: 85, spa: 85, spd: 85, spe: 85 },
+      ivs: { hp: 31, atk: 31, def: 31, spa: 31, spd: 31, spe: 31 },
+      item: 'Life Orb',
+      level: 82,
+      shiny: false
+    },
+    {
+      name: 'Latios',
+      species: 'Latios',
+      gender: 'M',
+      moves: [ 'dracometeor', 'roost', 'calmmind', 'psyshock' ],
+      ability: 'Levitate',
+      evs: { hp: 85, atk: 0, def: 85, spa: 85, spd: 85, spe: 85 },
+      ivs: { hp: 31, atk: 0, def: 31, spa: 31, spd: 31, spe: 31 },
+      item: 'Latiosite',
+      level: 82,
+      shiny: false
+    },
+    {
+      name: 'Gogoat',
+      species: 'Gogoat',
+      gender: '',
+      moves: [ 'milkdrink', 'substitute', 'earthquake', 'hornleech' ],
+      ability: 'Sap Sipper',
+      evs: { hp: 85, atk: 85, def: 85, spa: 85, spd: 85, spe: 85 },
+      ivs: { hp: 31, atk: 31, def: 31, spa: 31, spd: 31, spe: 31 },
+      item: 'Leftovers',
+      level: 88,
+      shiny: false
+    },
+    {
+      name: 'Probopass',
+      species: 'Probopass',
+      gender: '',
+      moves: [ 'earthpower', 'toxic', 'stealthrock', 'flashcannon' ],
+      ability: 'Magnet Pull',
+      evs: { hp: 85, atk: 0, def: 85, spa: 85, spd: 85, spe: 85 },
+      ivs: { hp: 31, atk: 0, def: 31, spa: 31, spd: 31, spe: 31 },
+      item: 'Air Balloon',
+      level: 88,
+      shiny: false
+    },
+    {
+      name: 'Regice',
+      species: 'Regice',
+      gender: 'N',
+      moves: [ 'thunderbolt', 'rockpolish', 'icebeam', 'focusblast' ],
+      ability: 'Clear Body',
+      evs: { hp: 81, atk: 0, def: 85, spa: 85, spd: 85, spe: 85 },
+      ivs: { hp: 31, atk: 0, def: 31, spa: 31, spd: 31, spe: 31 },
+      item: 'Weakness Policy',
+      level: 88,
+      shiny: false
+    }
+  ]

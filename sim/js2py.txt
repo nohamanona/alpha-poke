@@ -1,0 +1,12 @@
+
+
+return this.baseMoveSlots.map(moveSlot => moveSlot.id);
+return [x.id for x in self.baseMoveSlots]
+
+if (!['move', 'event'].includes(action.choice)) {
+if any((x in action["choices"]) for x in ["move", "event"]):
+
+raise Exception("Battle not started: A player has an empty team.")
+
+adjacentAllies = adjacentAllies.filter(active => active && !active.fainted);
+adjacentAllies = list(filter(lambda x: x and not x.fainted , adjacentAllies))
